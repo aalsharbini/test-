@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<html>
+<body>
+
+<h1 style="color:red;">ITMD 362: Human-Computer Interaction</h1>
+
+<p>- Hello there, my name is Ala Alsharbini this is my first website for ITMD 362. </p>
+
+<h2 style="color:red;"> Facts about me </h2>
+<ul>
+  <li>I'm 26 years old I was born in Jordan </li>
+  <li>my favorite movie is Demon Slayer </li>
+  <li>my favorite drink is coffee </li>
+</ul>  
+
+
+</body>
+</html>
+
